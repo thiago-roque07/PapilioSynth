@@ -1,2 +1,2 @@
-# PapilioSynth
-Designing an audio synthesizer in the Papilio Pro FPGA board
+# PapilioSynth SVF
+Designing an State Variable Filter in VDHL as a module for a FPGA audio synthetizer
